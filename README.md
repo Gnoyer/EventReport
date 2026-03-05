@@ -16,7 +16,7 @@
 
 ### 项目结构
 
-```
+```text
 app/src/main/java/com/lue/eventreport/
 ├── EventReportApplication.kt      # Application 入口，Hilt 入口
 ├── MainActivity.kt                 # 主界面 Activity
