@@ -1,3 +1,6 @@
+<img width="391" height="829" alt="QQ_1772694201579" src="https://github.com/user-attachments/assets/f47f726c-86e0-49bc-847a-de7357a5a793" />
+
+ 
  ```markdown
 # 事件上报系统 Demo
 
